@@ -1,0 +1,9 @@
+**/target/
+**/node_modules/
+mobile/platforms/
+mobile/plugins/
+.env
+.env.*
+!.env.example
+*.jks
+*.keystore

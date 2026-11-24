@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<widget id="co.gestionacademica.corte4" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
+    <name>Gestión Académica</name>
+    <description>Gestión de asignaturas y usuarios</description>
+    <content src="index.html" />
+    <access origin="https://*" />
+    <preference name="scheme" value="https" />
+    <preference name="hostname" value="localhost" />
+    <preference name="AndroidEdgeToEdge" value="false" />
+</widget>

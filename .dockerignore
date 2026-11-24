@@ -1,0 +1,11 @@
+**
+!backend/
+!backend/.mvn/
+!backend/.mvn/**
+!backend/src/
+!backend/src/**
+!backend/mvnw
+!backend/pom.xml
+!mobile/
+!mobile/www/
+!mobile/www/**

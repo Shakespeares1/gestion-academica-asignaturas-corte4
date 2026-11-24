@@ -1,0 +1,1 @@
+{"name":"corte4-asignaturas","version":"1.0.0","private":true,"scripts":{"apk":"node build-android.cjs"},"devDependencies":{"cordova":"12.0.0","cordova-android":"14.0.1","cordova-lib":"12.0.2"},"cordova":{"platforms":["android"]}}
